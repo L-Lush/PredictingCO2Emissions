@@ -1,4 +1,4 @@
-# PredictingCO2Emissions
+# Predicting CO2 Emissions
 
 This project focuses on analysing and predicting global CO2 emissions using machine learning techniques. It utilises the "Global Data on Sustainable Energy (2000-2020)" dataset from Kaggle to explore various factors influencing CO2 emissions and develop predictive models.
 
